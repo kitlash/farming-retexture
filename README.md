@@ -16,6 +16,7 @@ If you're here do download the zip, [here you go](https://github.com/kitlash/far
 - Baked Potatoes
 - Poisonous Potatoes
 - Sticks
+- Sugar Cane
 
 ### List of all blocks retextured:
 - Hay Bales
@@ -28,3 +29,4 @@ If you're here do download the zip, [here you go](https://github.com/kitlash/far
 - Sugar Cane
 
 <img src="image.png" width="100%">
+<img src="image2.png" width="100%">
